@@ -1,4 +1,10 @@
-## Hi there 👋
+# Bonjour,
+
+Je suis anciennement **assistant de communication**, et je suis en reconversion professionnelle afin de devenir **développeur en jeu vidéo** !
+
+Je poursuis les formations de **Technocité** et serai probablement disponible l'année prochaine pour un emploi. En attendant, vous trouverez ici mes **projets étudiants**.
+
+**Enjoy !**
 
 <!--
 **BunnyBusher/BunnyBusher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
