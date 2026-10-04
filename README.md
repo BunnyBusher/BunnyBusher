@@ -7,6 +7,8 @@ This combination of experiences allows me to blend technical precision with stro
 
 **Enjoy !**
 
+[![Watch the video](https://img.itch.zone/aW1nLzIzNDgzNjc4LnBuZw==/original/KXL%2Bhf.png)](https://www.youtube.com/watch?v=OQQNys3rVIQ)
+
 <!--
 **BunnyBusher/BunnyBusher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
