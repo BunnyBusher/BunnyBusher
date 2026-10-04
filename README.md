@@ -1,8 +1,9 @@
-# Bonjour,
+# Hello,
 
-Je suis anciennement **assistant de communication**, et je suis en reconversion professionnelle afin de devenir **développeur en jeu vidéo** !
+Junior Game Developer specialized in C# with Unity, comfortable both with gameplay feature development and the creation of interactive, immersive experiences. Through my training and projects, I have gained strong skills in programming, gameplay design, and teamwork. I am learning SteamWork and Network for video games. You can contact me on my [LinkedIn](www.linkedin.com/in/nicolas-carlier-charleroi)
 
-Je poursuis les formations de **Technocité** et serai probablement disponible l'année prochaine pour un emploi. En attendant, vous trouverez ici mes **projets étudiants**.
+Before focusing on game development, I worked as a communications assistant, an experience that helped me develop key skills such as collaboration, project management, and the ability to explain technical concepts clearly.
+This combination of experiences allows me to blend technical precision with strong interpersonal skills, contributing effectively to creative and collaborative projects.
 
 **Enjoy !**
 
